@@ -1,4 +1,3 @@
-# CIENVOLVA
 ## Sobre nós
 O Cienvolva é um projeto voltado à produção de conteúdos audiovisuais e interativos de divulgação e educação científica em tópicos de matemática, física e visualização de dados.
 Nosso objetivo central do Cienvolva é a elaboração de conteúdos:
